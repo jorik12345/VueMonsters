@@ -53,6 +53,16 @@ button {
     margin: 10px;
 }
 
+figure {
+    text-align: center;
+}
+
+figure img {
+    transition:all 0.3s;
+    max-height: 250px;
+    margin: auto;
+}
+
 #start-game {
     background-color: #aaffb0;
 }
